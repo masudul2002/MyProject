@@ -1,2 +1,2 @@
-# My_SSTU_Project
+# My_C Programming
 C Programming
